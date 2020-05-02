@@ -1,5 +1,5 @@
 # CodingForMedicine
-A series of educational exercises, applying programming to medicine.
+A series of educational exercises, applying programming to medical problems.
 
 All exercises are available at [CodeMD.co.uk](https://codemd.co.uk/).
 
