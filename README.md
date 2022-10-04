@@ -1,7 +1,7 @@
 # CodingForMedicine
 A series of educational exercises, applying programming to medical problems.
 
-All exercises are available at [CodeMD.co.uk](https://codemd.co.uk/).
+Videos accompanying the exercises are available at [www.YouTube.com/ChrisLovejoy](https://www.YouTube.com/ChrisLovejoy).
 
 
 ## 1. Coding a medical calculator
