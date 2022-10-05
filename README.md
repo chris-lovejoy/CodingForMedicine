@@ -4,6 +4,17 @@ A series of educational exercises, applying programming to medical problems.
 Videos accompanying the exercises are available at [www.YouTube.com/ChrisLovejoy](https://www.YouTube.com/ChrisLovejoy).
 
 
+
+
+## Exercises
+
+| Exercise                           | Difficulty   | Concepts                                               | Accompanying material |
+| ---------------------------------- | ------------ | ------------------------------------------------------ | --------------------- |
+| Coding a medical calculator        | Beginner     | basic Python (input, try/except, if/else/while, print) |                       |
+| Predicting hospital non-attendance | Intermediate | pandas, cleaning data, simple classification model     |                       |
+| Diagnosing breast cancer           | Intermediate | model training, performance metrics, confusion matrix  |                       |
+
+
 ## 1. Coding a medical calculator
 This Jupyter Notebook and .py file contain a simple medical calculator for calculating a patient's score of SIRS (Systemic Inflammatory Repsonse Syndrome).
 
