@@ -10,9 +10,9 @@ Videos accompanying the exercises are available at [www.YouTube.com/ChrisLovejoy
 
 | Exercise                           | Difficulty   | Concepts                                               | Accompanying material |
 | ---------------------------------- | ------------ | ------------------------------------------------------ | --------------------- |
-| Coding a medical calculator        | Beginner     | basic Python (input, try/except, if/else/while, print) |                       |
-| Predicting hospital non-attendance | Intermediate | pandas, cleaning data, simple classification model     |                       |
-| Diagnosing breast cancer           | Intermediate | model training, performance metrics, confusion matrix  |                       |
+| [Coding a medical calculator](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/Coding_Medical_Calculator/SIRS_Calculator.ipynb)        | Beginner     | basic Python (input, try/except, if/else/while, print) |                       |
+| [Predicting hospital non-attendance](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/Predicting_No_Shows.ipynb) | Intermediate | pandas, cleaning data, simple classification model     |                       |
+| [Diagnosing breast cancer](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/Breast_cancer_features.ipynb)           | Intermediate | model training, performance metrics, confusion matrix  |                       |
 
 
 ## 1. Coding a medical calculator
