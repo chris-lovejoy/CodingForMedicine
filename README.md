@@ -36,5 +36,5 @@ The core principles are that all exercises should be:
 2. **Interactive**. Users must be prompted to modify and complete the code. These are not purely 'demo' notebooks and should not be able to run front-to-back before any user modification. 
 3. **Easy to run**. It should be easy and intuitive to run the notebooks both on Google Colab or on local Jupyter Notebooks.
 
-[Here is a simple template notebook](./New_Exercise_Template.ipynb) and here are two completed exercises as templates: [Coding a medical calculator](./exercises/Coding_Medical_Calculator.ipynb) and [Diagnosing breast cancer](./exercises/Breast_cancer_features.ipynb).
+[Here is a simple template notebook](./New_Exercise_Template.ipynb) and [here](./exercises/Coding_Medical_Calculator.ipynb) is an example of a well-designed exercise.
 
