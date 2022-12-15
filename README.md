@@ -14,7 +14,7 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 
 | Exercise                           | Difficulty   | Concepts                                               | Accompanying material | Created by |
 | ---------------------------------- | ------------ | ------------------------------------------------------ | --------------------- | ---------- |
-| [Setting up Jupyter Notebook](./Setting_up_Jupyter_Notebook.ipynb)  | Introductory     | Jupyter Notebook, Google Colab, importing modules |    | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
+| [Setting up Jupyter Notebook](./exercises/Setting_up_Jupyter_Notebook.ipynb)  | Introductory     | Jupyter Notebook, Google Colab, importing modules | [Official Tutorial for Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | Python Principles | Beginner | Variables, functions, loops, conditionals, data structures |  |  |
 | [Coding a medical calculator](./exercises/Coding_Medical_Calculator.ipynbb)  | Beginner     | basic Python (input, try/except, if/else/while, print) | [YouTube tutorial](https://www.youtube.com/watch?v=ve9Mz58p4VA)   | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Predicting hospital non-attendance](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/Predicting_No_Shows.ipynb) | Intermediate | pandas, cleaning data, simple classification model     | [YouTube tutorial](https://www.youtube.com/watch?v=Y9O2_2NQ0RM), [blog post](https://chrislovejoy.me/no-shows/)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
