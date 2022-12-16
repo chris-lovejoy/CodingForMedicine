@@ -14,10 +14,10 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 
 | Exercise                           | Difficulty   | Concepts                                               | Accompanying material | Created by |
 | ---------------------------------- | ------------ | ------------------------------------------------------ | --------------------- | ---------- |
-| [Setting up Jupyter Notebook](./exercises/Setting_up_Jupyter_Notebook.ipynb)  | Introductory     | Jupyter Notebook, Google Colab, importing modules | [Official Tutorial for Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
+| [Setting up Jupyter Notebook](./exercises/Setting_up_Jupyter_Notebook.ipynb)  | Introductory     | Jupyter[label](http://localhost:8888/notebooks/exercises/Breast_cancer_features.ipynb) Notebook, Google Colab, importing modules | [Official Tutorial for Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | Python Principles | Beginner | Variables, functions, loops, conditionals, data structures |  |  |
 | [Coding a medical calculator](./exercises/Coding_Medical_Calculator.ipynbb)  | Beginner     | basic Python (input, try/except, if/else/while, print) | [YouTube tutorial](https://www.youtube.com/watch?v=ve9Mz58p4VA)   | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
-| [Predicting hospital non-attendance](./Predicting_No_Shows.ipynb) (WIP) | Intermediate | pandas, cleaning data, simple classification model     | [YouTube tutorial](https://www.youtube.com/watch?v=Y9O2_2NQ0RM), [blog post](https://chrislovejoy.me/no-shows/)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
+| [Predicting hospital non-attendance](./exercises/Predicting_No_Shows.ipynb)| Intermediate | cleaning data, feature engineering, simple classification model     | [YouTube tutorial](https://www.youtube.com/watch?v=Y9O2_2NQ0RM), [blog post](https://chrislovejoy.me/no-shows/)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Diagnosing breast cancer](./exercises/Breast_cancer_features.ipynb)         | Intermediate | model training, performance metrics, confusion matrix  | [YouTube tutorial](https://www.youtube.com/watch?v=c8s5GKRrenY) | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | Prediction stroke | Intermediate | class imbalance, underfitting and overfitting |  |  
 | Diagnosing chest X-rays | Advanced | CNNs (TODO) |  |  | 
@@ -33,7 +33,7 @@ If you would like to contribute an exercise to this repository, please either (A
 The core principles are that all exercises should be:
 
 1. **Highly descriptive**. All code should be explained, with minimal amounts of assumed knowledge. It should be easy to understand and complete the notebook with no reference to external material.
-2. **Interactive**. Users must be prompted to modify and complete the code. These are not purely 'demo' notebooks and should not be able to run front-to-back before any user modification. 
+2. **Interactive**. Users should be prompted to modify and complete code, or experiment on their own. These are not purely 'demo' notebooks. Aspirationally, users should not be able to run front-to-back before any user modification (although not essential).
 3. **Easy to run**. It should be easy and intuitive to run the notebooks both on Google Colab or on local Jupyter Notebooks.
 
 [Here is a simple template notebook](./New_Exercise_Template.ipynb) and [here](./exercises/Coding_Medical_Calculator.ipynb) is an example of a well-designed exercise.
