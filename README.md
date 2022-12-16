@@ -1,4 +1,4 @@
-# Coding For Medicine (Work-In-Progress)
+# Coding For Medicine
 A series of educational exercises, applying programming to medical problems.
 
 
