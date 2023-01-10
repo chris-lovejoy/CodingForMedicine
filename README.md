@@ -20,10 +20,11 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 | [Predicting hospital non-attendance](./exercises/Predicting_No_Shows.ipynb)| Intermediate | cleaning data, feature engineering, simple classification model     | [YouTube tutorial](https://www.youtube.com/watch?v=Y9O2_2NQ0RM), [blog post](https://chrislovejoy.me/no-shows/)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Diagnosing breast cancer](./exercises/Breast_cancer_features.ipynb)         | Intermediate | model training, performance metrics, confusion matrix  | [YouTube tutorial](https://www.youtube.com/watch?v=c8s5GKRrenY) | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | Predicting stroke | Intermediate | dealing with class imbalance, F1 score, underfitting and overfitting,  | | [Dr Lawrence Adams](https://github.com/lawrenceadams) |  
+| Predicting length of stay | Intermediate | logistic regression, odds and odds ratios, dummy variables, confidence intervals | | [Dr Jess Caterson](https://github.com/jjcato9) |
 | Diagnosing chest X-rays | Advanced | CNNs (TODO) |  |  | 
 | (NLP exercise - TBD) | Advanced | NLP | | |
 | (bioinformatic exercise - TBD) | Advanced | | | |
-| (public health exercise - TBD) | TBD | | | |
+| (public health exercise - TBD) | Intermediate | | | |
 
 
 ## Contributor Guidelines
