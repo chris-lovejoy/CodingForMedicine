@@ -22,7 +22,7 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 | Prediction stroke | Intermediate | class imbalance, underfitting and overfitting |  |  
 | Diagnosing chest X-rays | Advanced | CNNs (TODO) |  |  | 
 | (NLP exercise - TBD) | Advanced | NLP | | |
-| (bioinformatic exercise - TBD) | Advanced | | | |
+| Cancer gene expression classification | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | Emily Jin |
 | (public health exercise - TBD) | TBD | | | |
 
 
