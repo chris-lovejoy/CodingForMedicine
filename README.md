@@ -21,6 +21,7 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 | [Diagnosing breast cancer](./exercises/Breast_cancer_features.ipynb)         | Intermediate | model training, performance metrics, confusion matrix  | [YouTube tutorial](https://www.youtube.com/watch?v=c8s5GKRrenY) | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | Predicting stroke | Intermediate | dealing with class imbalance, F1 score, underfitting and overfitting,  | | [Dr Lawrence Adams](https://github.com/lawrenceadams) |  
 | Predicting length of stay | Intermediate | logistic regression, odds and odds ratios, dummy variables, confidence intervals | | [Dr Jess Caterson](https://github.com/jjcato9) |
+| Cancer gene expression classification | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | [Emily Jin](https://github.com/emilyjin11) | 
 | Diagnosing chest X-rays | Advanced | CNNs (TODO) |  |  | 
 | (NLP exercise - TBD) | Advanced | NLP | | |
 | (bioinformatic exercise - TBD) | Advanced | | | |
