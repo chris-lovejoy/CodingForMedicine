@@ -23,7 +23,7 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 | Predicting length of stay | Intermediate | logistic regression, odds and odds ratios, dummy variables, confidence intervals | | [Dr Jess Caterson](https://github.com/jjcato9) |
 | Cancer gene expression classification | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | [Emily Jin](https://github.com/emilyjin11) | 
 | Diagnosing chest X-rays | Advanced | CNNs (TODO) |  |  | 
-| (NLP exercise - TBD) | Advanced | NLP | | |
+| Extracting Insights from Medical Research Papers | Advanced | NLP | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | (bioinformatic exercise - TBD) | Advanced | | | |
 | (public health exercise - TBD) | Intermediate | | | |
 
