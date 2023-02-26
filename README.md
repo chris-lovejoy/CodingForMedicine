@@ -15,8 +15,8 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 | Exercise                           | Difficulty   | Concepts                                               | Accompanying material | Created by |
 | ---------------------------------- | ------------ | ------------------------------------------------------ | --------------------- | ---------- |
 | [Setting up Jupyter Notebook](./exercises/Setting_up_Jupyter_Notebook.ipynb)  | Introductory     | Jupyter Notebook, Google Colab, importing modules | [Official Tutorial for Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
-| Python Principles | Beginner | Variables, functions, loops, conditionals, data structures |  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
-| [Coding a medical calculator](./exercises/Coding_Medical_Calculator.ipynbb)  | Beginner     | basic Python (input, try/except, if/else/while, print) | [YouTube tutorial](https://www.youtube.com/watch?v=ve9Mz58p4VA)   | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
+| Python Principles | Beginner | Variables, functions, loops, conditionals, data structures |  |  |
+| [Coding a medical calculator](./exercises/Coding_Medical_Calculator.ipynb)  | Beginner     | basic Python (input, try/except, if/else/while, print) | [YouTube tutorial](https://www.youtube.com/watch?v=ve9Mz58p4VA)   | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Predicting hospital non-attendance](./exercises/Predicting_No_Shows.ipynb)| Intermediate | cleaning data, feature engineering, simple classification model     | [YouTube tutorial](https://www.youtube.com/watch?v=Y9O2_2NQ0RM), [blog post](https://chrislovejoy.me/no-shows/)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Diagnosing breast cancer](./exercises/Breast_cancer_features.ipynb)         | Intermediate | model training, performance metrics, confusion matrix  | [YouTube tutorial](https://www.youtube.com/watch?v=c8s5GKRrenY) | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Creating and querying a EHRs database](./exercises/Create_And_Query_EHR_Database.ipynb) | Intermediate | SQL queries, pandas, Levehstein distance |  | [Dr Kelvin Kramp](https://github.com/KelvinKramp) | 
@@ -24,7 +24,7 @@ If you are an educator, feel free to adopt and adapt these exercises based on yo
 | Predicting length of stay | Intermediate | logistic regression, odds and odds ratios, dummy variables, confidence intervals | | [Dr Jess Caterson](https://github.com/jjcato9) |
 | Cancer gene expression classification | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | [Emily Jin](https://github.com/emilyjin11) | 
 | Diagnosing chest X-rays | Advanced | CNNs (TODO) |  |  | 
-| Extracting Insights from Medical Research Papers | Advanced | NLP | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
+| [Extracting insights from Medical Research Papers](./exercises/Extracting%20Insights%20from%20Medical%20Research%20Papers.ipynb) | Advanced | NLP (tokenisation, summarisation, question-answering), APIs | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | (bioinformatic exercise - TBD) | Advanced | | | |
 | (public health exercise - TBD) | Intermediate | | | |
 
