@@ -36,9 +36,9 @@ If you would like to contribute an exercise to this repository, please either (A
 The core principles are that all exercises should be:
 
 1. **Highly descriptive** (but not overly verbose). 
-  a. All code should be explained, with minimal amounts of assumed knowledge. 
-  b. It should be easy to understand and complete the notebook with no reference to external material.
-  c. There should be a good integration between code and explanatory text. Sections of text shouldn't go beyond ~3-4 paragraphs without some code being run. 
+ a. All code should be explained, with minimal amounts of assumed knowledge. 
+ b. It should be easy to understand and complete the notebook with no reference to external material.
+ c. There should be a good integration between code and explanatory text. Sections of text shouldn't go beyond ~3-4 paragraphs without some code being run. 
 2. **Interactive** (ie. not "demo" notebooks)
   a. Users should be prompted throughout to both (1) modify and complete code and (2) answer questions related to the exercise.
   b. Code completions can be filling in gaps ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Coding_Medical_Calculator.ipynb)) or writing new functionality from scratch ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Predicting_No_Shows.ipynb). 
