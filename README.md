@@ -36,18 +36,18 @@ If you would like to contribute an exercise to this repository, please either (A
 The core principles are that all exercises should be:
 
 1. **Highly descriptive** (but not overly verbose). 
- a. All code should be explained, with minimal amounts of assumed knowledge. 
- b. It should be easy to understand and complete the notebook with no reference to external material.
- c. There should be a good integration between code and explanatory text. Sections of text shouldn't go beyond ~3-4 paragraphs without some code being run. 
+    a. All code should be explained, with minimal amounts of assumed knowledge. 
+    b. It should be easy to understand and complete the notebook with no reference to external material.
+    c. There should be a good integration between code and explanatory text. Sections of text shouldn't go beyond ~3-4 paragraphs without some code being run. 
 2. **Interactive** (ie. not "demo" notebooks)
-  a. Users should be prompted throughout to both (1) modify and complete code and (2) answer questions related to the exercise.
-  b. Code completions can be filling in gaps ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Coding_Medical_Calculator.ipynb)) or writing new functionality from scratch ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Predicting_No_Shows.ipynb). 
-  c. Each sub-section of the exercise should have interactive elements, such as code to complete, questions to answer or both.
-  d. Questions should be a mixture of "open" and "closed" questions. "Explore the dataset further and describe your findings" is an example of an open question, while "How many entries are there in the dataset?" and "Which variable has the most missing values?" are examples of closed questions.  
-  e. Detailed descriptions of several potential follow-on exercises should be provided at the end of each notebook. These exercises should be more open-ended and with a broader scope than exercises throughout the notebook.
+    a. Users should be prompted throughout to both (1) modify and complete code and (2) answer questions related to the exercise.
+    b. Code completions can be filling in gaps ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Coding_Medical_Calculator.ipynb)) or writing new functionality from scratch ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Predicting_No_Shows.ipynb). 
+    c. Each sub-section of the exercise should have interactive elements, such as code to complete, questions to answer or both.
+    d. Questions should be a mixture of "open" and "closed" questions. "Explore the dataset further and describe your findings" is an example of an open question, while "How many entries are there in the dataset?" and "Which variable has the most missing values?" are examples of closed questions.  
+    e. Detailed descriptions of several potential follow-on exercises should be provided at the end of each notebook. These exercises should be more open-ended and with a broader scope than exercises throughout the notebook.
 3. **Easy to run**.
-  a. It should be easy and intuitive to run the notebooks both on Google Colab or on local Jupyter Notebooks.
-  b. Explanations and task descriptions should be unambiguous, such that the challenge lies in *doing* the exercise, not in interpreting it.
+    a. It should be easy and intuitive to run the notebooks both on Google Colab or on local Jupyter Notebooks.
+    b. Explanations and task descriptions should be unambiguous, such that the challenge lies in *doing* the exercise, not in interpreting it.
 
 
 [Here is a simple template notebook](./New_Exercise_Template.ipynb) and [here](./exercises/Coding_Medical_Calculator.ipynb) is an example of a well-designed exercise.
