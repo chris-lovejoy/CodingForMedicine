@@ -35,7 +35,7 @@ If you would like to contribute an exercise to this repository, please either (A
 
 The core principles are that all exercises should be:
 
-#### 1. **Highly descriptive** (but not overly verbose). 
+### 1. **Highly descriptive** (but not overly verbose). 
 
 a. All code should be explained, with minimal amounts of assumed knowledge. 
 
@@ -43,7 +43,7 @@ b. It should be easy to understand and complete the notebook with no reference t
 
 c. There should be a good integration between code and explanatory text. Sections of text shouldn't go beyond ~3-4 paragraphs without some code being run. 
 
-#### 2. **Interactive** (ie. not "demo" notebooks)
+### 2. **Interactive** (ie. not "demo" notebooks)
 
 a. Users should be prompted throughout to both (1) modify and complete code and (2) answer questions related to the exercise.
 
@@ -55,7 +55,7 @@ d. Questions should be a mixture of "open" and "closed" questions. "Explore the 
 
 e. Detailed descriptions of several potential follow-on exercises should be provided at the end of each notebook. These exercises should be more open-ended and with a broader scope than exercises throughout the notebook.
 
-#### 3. **Easy to run**.
+### 3. **Easy to run**.
 
 a. It should be easy and intuitive to run the notebooks both on Google Colab or on local Jupyter Notebooks.
 
