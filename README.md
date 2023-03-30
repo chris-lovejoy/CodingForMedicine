@@ -47,9 +47,9 @@ c. There should be a good integration between code and explanatory text. Section
 
 a. Users should be prompted throughout to both (1) modify and complete code and (2) answer questions related to the exercise.
 
-b. Code completions can be filling in gaps ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Coding_Medical_Calculator.ipynb)) or writing new functionality from scratch ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Predicting_No_Shows.ipynb). 
+b. Code completions can be filling in gaps ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Coding_Medical_Calculator.ipynb)) or writing new functionality from scratch ([example](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Predicting_No_Shows.ipynb)).
 
-c. Each sub-section of the exercise should have interactive elements, such as code to complete, questions to answer or both.
+c. Each sub-section of the exercise should have interactive elements, such as code to complete, 2-3 questions to answer or both.
 
 d. Questions should be a mixture of "open" and "closed" questions. "Explore the dataset further and describe your findings" is an example of an open question, while "How many entries are there in the dataset?" and "Which variable has the most missing values?" are examples of closed questions.  
 
