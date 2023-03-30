@@ -36,7 +36,6 @@ If you would like to contribute an exercise to this repository, please either (A
 The core principles are that all exercises should be:
 
 1. **Highly descriptive** (but not overly verbose). 
-
     a. All code should be explained, with minimal amounts of assumed knowledge. 
     b. It should be easy to understand and complete the notebook with no reference to external material.
     c. There should be a good integration between code and explanatory text. Sections of text shouldn't go beyond ~3-4 paragraphs without some code being run. 
