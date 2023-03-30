@@ -35,7 +35,7 @@ If you would like to contribute an exercise to this repository, please either (A
 
 The core principles are that all exercises should be:
 
-### **Highly descriptive** (but not overly verbose). 
+### 1. **Highly descriptive** (but not overly verbose). 
 
 a. All code should be explained, with minimal amounts of assumed knowledge. 
 
