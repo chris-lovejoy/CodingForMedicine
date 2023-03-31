@@ -9,6 +9,7 @@ If you are a learner, select an exercise below based on your interests and exper
 
 If you are an educator, feel free to adopt and adapt these exercises based on your requirements.
 
+If you are interested in contributing, see the [Contributor Guidelines](#contributor-guidelines).
 
 ## Exercises
 
