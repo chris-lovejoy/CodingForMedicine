@@ -23,10 +23,9 @@ If you are interested in contributing, see the [Contributor Guidelines](#contrib
 | [Creating and querying an EHR database](./exercises/Create_And_Query_EHR_Database.ipynb) | Intermediate | SQL queries, pandas, Levehstein distance |  | [Dr Kelvin Kramp](https://github.com/KelvinKramp) | 
 | [Predicting stroke](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Stroke_Prediction_Model.ipynb) | Intermediate | dealing with class imbalance, F1 score, underfitting and overfitting,  | | [Dr Lawrence Adams](https://github.com/lawrenceadams) |  
 | [Predicting length of stay with logistic regression](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Logistic%20Regression%20Basics.ipynb) | Intermediate | logistic regression, odds and odds ratios, dummy variables, confidence intervals | | [Dr Jess Caterson](https://github.com/jjcato9) |
-| Cancer gene expression classification | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | [Emily Jin](https://github.com/emilyjin11) | 
+| [Cancer gene expression classification](./exercises/Gene_classification_exercise.ipynb) | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | [Dr Emily Jin](https://github.com/emilyjin11) | 
 | [Diagnosing chest X-rays](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Diagnosing_Chest_X-Rays.ipynb) | Advanced | image analysis, convolutional neural networks, transfer learning |  |  [Oleksandr Teslenko](https://github.com/AlexTeslenko) | 
 | [Extracting insights from Medical Research Papers](./exercises/Extracting%20Insights%20from%20Medical%20Research%20Papers.ipynb) | Advanced | NLP (tokenisation, summarisation, question-answering), APIs | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
-| (bioinformatic exercise - TBD) | Advanced | | | |
 | (public health exercise - TBD) | Intermediate | | | |
 
 
