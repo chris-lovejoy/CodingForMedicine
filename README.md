@@ -1,4 +1,4 @@
-# Coding For Medicine (Work-In-Progress)
+# Coding For Medicine
 A series of educational exercises, applying programming to medical problems.
 
 
@@ -16,7 +16,7 @@ If you are interested in contributing, see the [Contributor Guidelines](#contrib
 | Exercise                           | Difficulty   | Concepts                                               | Accompanying material | Created by |
 | ---------------------------------- | ------------ | ------------------------------------------------------ | --------------------- | ---------- |
 | [Setting up Jupyter Notebook](./exercises/Setting_up_Jupyter_Notebook.ipynb)  | Introductory     | Jupyter Notebook, Google Colab, importing modules | [Official Tutorial for Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
-| [Python Principles](./exercises/Python_Principles.ipynb) | Beginner | Variables, functions, loops, conditionals, data structures |  | [Dr Aaron Smith](https://www.github.com/medic-code) |
+| Python Principles ([1](./exercises/Python_Principles.ipynb), [2](./exercises/Python_Principles_2.ipynb), [3](./exercises/Python_Principles_3.ipynb), [4](./exercises/Python_Principles_4.ipynb), [5](./exercises/Python_Principles_5.ipynb)) | Beginner | Variables, functions, loops, conditionals, data structures |  | [Dr Aaron Smith](https://www.github.com/medic-code) |
 | [Coding a medical calculator](./exercises/Coding_Medical_Calculator.ipynb)  | Beginner     | basic Python (input, try/except, if/else/while, print) | [YouTube tutorial](https://www.youtube.com/watch?v=ve9Mz58p4VA)   | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Predicting hospital non-attendance](./exercises/Predicting_No_Shows.ipynb)| Intermediate | cleaning data, feature engineering, simple classification model     | [YouTube tutorial](https://www.youtube.com/watch?v=Y9O2_2NQ0RM), [blog post](https://chrislovejoy.me/no-shows/)  | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 | [Diagnosing breast cancer](./exercises/Breast_cancer_features.ipynb)         | Intermediate | model training, performance metrics, confusion matrix  | [YouTube tutorial](https://www.youtube.com/watch?v=c8s5GKRrenY) | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
@@ -65,3 +65,32 @@ b. Explanations and task descriptions should be unambiguous, such that the chall
 [Here is a simple template notebook](./New_Exercise_Template.ipynb) and [here](./exercises/Coding_Medical_Calculator.ipynb) is an example of a well-designed exercise.
 
 If there are significant amounts of code for the user to write, then template 'solution' code can be provided in the 'template_code' folder.
+
+
+## Setup (if running locally) [Optional]
+
+### Clone the repo (use Terminal in Mac or Windows)
+```bash
+git clone https://github.com/chris-lovejoy/CodingForMedicine.git
+```
+
+### Creating a virtual environment (use Terminal in Mac or Windows)
+```bash
+python3 -m venv <name_of_new_environment>
+```
+
+### Activate the virtual environment (use Terminal in Mac or Windows)
+```bash
+source <name_of_new_environment>/bin/activate
+```
+
+### Install Dependencies
+If you are running the notebooks using Google Colab, the dependencies will be installed automatically when you run the notebook. If you are running the notebooks locally, you can install any package as follows:
+```bash
+pip install <package_name>
+```
+
+For instance,
+```bash
+pip install openai, pandas
+```
