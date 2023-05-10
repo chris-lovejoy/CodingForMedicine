@@ -25,8 +25,7 @@ If you are interested in contributing, see the [Contributor Guidelines](#contrib
 | [Predicting length of stay with logistic regression](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Logistic%20Regression%20Basics.ipynb) | Intermediate | logistic regression, odds and odds ratios, dummy variables, confidence intervals | | [Dr Jess Caterson](https://github.com/jjcato9) |
 | [Cancer gene expression classification](./exercises/Gene_classification_exercise.ipynb) | Advanced | exploratory data analysis, feature selection, classification models, prediction metrics | | [Dr Emily Jin](https://github.com/emilyjin11) | 
 | [Diagnosing chest X-rays](https://github.com/chris-lovejoy/CodingForMedicine/blob/main/exercises/Diagnosing_Chest_X-Rays.ipynb) | Advanced | image analysis, convolutional neural networks, transfer learning |  |  [Oleksandr Teslenko](https://github.com/AlexTeslenko) | 
-| [Extracting insights from Medical Research Papers](./exercises/Extracting%20Insights%20from%20Medical%20Research%20Papers.ipynb) | Advanced | NLP (tokenisation, summarisation, question-answering), APIs | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
-| (public health exercise - TBD) | Intermediate | | | |
+| [Extracting insights from Medical Research Papers](./exercises/Extracting_Insights_Medical_Papers.ipynb) | Advanced | NLP (tokenisation, summarisation, question-answering), APIs | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 
 
 ## Contributor Guidelines
