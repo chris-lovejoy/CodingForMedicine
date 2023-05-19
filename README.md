@@ -28,6 +28,35 @@ If you are interested in contributing, see the [Contributor Guidelines](#contrib
 | [Extracting insights from Medical Research Papers](./exercises/Extracting_Insights_Medical_Papers.ipynb) | Advanced | NLP (tokenisation, summarisation, question-answering), APIs | | [Dr Chris Lovejoy](https://www.github.com/chris-lovejoy) |
 
 
+## Setup (if running locally) [Optional]
+
+### Clone the repo (use Terminal in Mac or Windows)
+```bash
+git clone https://github.com/chris-lovejoy/CodingForMedicine.git
+```
+
+### Creating a virtual environment (use Terminal in Mac or Windows)
+```bash
+python3 -m venv <name_of_new_environment>
+```
+
+### Activate the virtual environment (use Terminal in Mac or Windows)
+```bash
+source <name_of_new_environment>/bin/activate
+```
+
+### Install Dependencies
+If you are running the notebooks using Google Colab, the dependencies will be installed automatically when you run the notebook. If you are running the notebooks locally, you can install any package as follows:
+```bash
+pip install <package_name>
+```
+
+For instance,
+```bash
+pip install openai, pandas
+```
+
+
 ## Contributor Guidelines
 
 If you would like to contribute an exercise to this repository, please either (A) submit an Issue or (B) submit a Pull Request of the modifed README, with your exercise added to the table.
@@ -64,32 +93,3 @@ b. Explanations and task descriptions should be unambiguous, such that the chall
 [Here is a simple template notebook](./New_Exercise_Template.ipynb) and [here](./exercises/Coding_Medical_Calculator.ipynb) is an example of a well-designed exercise.
 
 If there are significant amounts of code for the user to write, then template 'solution' code can be provided in the 'template_code' folder.
-
-
-## Setup (if running locally) [Optional]
-
-### Clone the repo (use Terminal in Mac or Windows)
-```bash
-git clone https://github.com/chris-lovejoy/CodingForMedicine.git
-```
-
-### Creating a virtual environment (use Terminal in Mac or Windows)
-```bash
-python3 -m venv <name_of_new_environment>
-```
-
-### Activate the virtual environment (use Terminal in Mac or Windows)
-```bash
-source <name_of_new_environment>/bin/activate
-```
-
-### Install Dependencies
-If you are running the notebooks using Google Colab, the dependencies will be installed automatically when you run the notebook. If you are running the notebooks locally, you can install any package as follows:
-```bash
-pip install <package_name>
-```
-
-For instance,
-```bash
-pip install openai, pandas
-```
