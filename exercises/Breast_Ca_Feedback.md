@@ -34,21 +34,22 @@ Focussed Edits
 - Explained ELI5 a little (this isn't commonly used so I wouldn't expect students to know about it)
 - Add Q&A about '< BIAS >' output from ELI5
 - Added 'Optional' to final step
-
-**TBA** - Equations for MSE and R-squared
+- Explanations for MSE and R-squared
 
 5. Part 3: Random Forest
 - RF is an ensemble method not a CART method, but it uses CARTs to build the forest
-**TBA** - Explain gini impurity briefly
+- Explain gini impurity briefly
 - Re-worded the RF description
 - Explained what a hyper-parameter is and what the hyperparameters in RF mean (w/ Q&A)
 - Change Confusion Matrix to plotted version
+- Feature importance explanation
 
 6. Part 4: XGBoost
 - Re-worded description slightly
 - Added random_state to base model 
 - Performance didn't improve much for me - not sure if you had a similar issue?
 - Formatted feature importance figure so that genes are not overlapping so much
+- Feature importance explanation
 
 
 
